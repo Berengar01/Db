@@ -10,11 +10,11 @@ In einer Zeit mit schier endlosen Datenmengen wird es immer wichtiger auf bestim
 ## Begriffserklärung
 
 Der Oberbegriff Stream Processing umfasst zwei Engines durch die das Abarbeiten von Streams ermöglicht wird. Event Stream Processing (ESP) und Complex Event Processing (CEP). Die Methoden dieser konvergieren sehr stark zueinander wie in Abbildung 1 zu sehen ist und werden häufig, wie auch in dieser Arbeit, synonym verwendet.<sup id="a1">[1](#f1)</sup>
+
 | ![Abbildung 1: Stream Processing](https://qph.fs.quoracdn.net/main-qimg-9ec93fab35668d719b158d0da4e12128.webp) |
 |--|
-|Abbildung 1: Stream Processing |
-|Quelle: https://qph.fs.quoracdn.net/main-qimg-9ec93fab35668d719b158d0da4e12128.webp  |
-
+| Abbildung 1: Stream Processing  |
+| Quelle: https://qph.fs.quoracdn.net/main-qimg-9ec93fab35668d719b158d0da4e12128.webp |
 
 
 Es soll nun zuerst auf den Begriff Event eingegangen werden, dessen Verständnis unabdinglich ist, um die genannten Engines zu verstehen. Anschließend wird ein Überblick über den genauen Ablauf des Stream Processing mit Fokus auf Complex Event Processing, gegeben. Im weiteren Verlauf wird dieses der Einfachheit halber als CEP bezeichnet. Es wird jedoch drauf hingewiesen sollte die beschriebene Methode vom CEP abweichen. 
