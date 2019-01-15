@@ -22,7 +22,7 @@ Solche Regeln lassen sich durch Event Processing Languages (EPL) festlegen.
 Die Architektur einer Software bezeichnet die generelle Organisation einer Software. Damit ist der übergeordnete Aufbau die möglichen Interaktionen und Komponenten gemeint. Wie der Name schon erahnen lässt geht es bei der Ereignisgesteuerten Architektur (oder Event-Driven Architecture) dementsprechend um eine Softwarearchitektur, die auf die Verarbeitung von großen kontinuierlichen Datenströmen in Echtzeit spezialisiert ist. Abbildung 2 zeigt den Grundsätzlichen Aufbau und die Komponenten einer solchen Architektur
 
 | ![Ereignisgesteuerte Architektur](https://s15.directupload.net/images/190115/29xj33kk.png) |
-|--|--|
+|--|
 | Abbildung 2: Ereignisgesteuerte Architektur |
 
 
