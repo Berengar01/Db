@@ -64,5 +64,6 @@ Die Architektur eines solchen Message Brokers basiert meist auf einer von zwei G
 Somit fungiert der Message Broker als eine, im Gegensatz zum EPN, eher simplere Herangehensweise, die dementsprechend aber auch leichter umzusetzen ist. Und wenn die gewünschten Funktionsanforderungen nicht zu hoch sind scheint dies die unkomplizierte Alternative zu einem kompletten EPN zu sein. Auch hier werden die Programme, die sich besonders zu Erstellung von eben diesem eignen im Kapitel Frameworks vorgestellt.
 
 <b id="f1">1:</b> Metzdorf, Marcel, et al. "Complex event processing für intelligente mobile M2M-Kommunikation." _ITG-Fachbericht der_18 (2013): 58-63. [↩](#a1)
+
 <b id="f2">2:</b> Samtani, G., and D. Sadhwani. "Integration Brokers and Web Services—Will Web Services Support Be Just Another Feature?." (2002). [↩](#a2)
 
